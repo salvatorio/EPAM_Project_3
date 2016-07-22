@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Candy
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Candy.xsd">
+    <Candies id = "c1">
+        <Name>Capri</Name>
+        <Energy>402</Energy>
+        <Type>caramel</Type>
+        <Ingredients>
+            <Water>500</Water>
+            <Sugar>1200</Sugar>
+            <Fructose>250</Fructose>
+            <Vanillin>50</Vanillin>
+        </Ingredients>
+        <Value>
+            <Proteins>0.5</Proteins>
+            <Fats>4.8</Fats>
+            <Carbohydrates>89.5</Carbohydrates>
+        </Value>
+        <Production>Roshen</Production>
+    </Candies>
+
+    <Candies id = "c2">
+        <Name>Barbaris</Name>
+        <Energy>390</Energy>
+        <Type>lollipop caramel</Type>
+        <Ingredients>
+            <Water>450</Water>
+            <Sugar>1000</Sugar>
+            <Fructose>210</Fructose>
+            <Vanillin>150</Vanillin>
+        </Ingredients>
+        <Value>
+            <Proteins>0.1</Proteins>
+            <Fats>0.3</Fats>
+            <Carbohydrates>97.1</Carbohydrates>
+        </Value>
+        <Production>Roshen</Production>
+    </Candies>
+
+    <Candies id = "c3">
+        <Name>Korivka</Name>
+        <Energy>351</Energy>
+        <Type>chocolate with filling</Type>
+        <Ingredients>
+            <Water>580</Water>
+            <Sugar>1260</Sugar>
+            <Fructose>350</Fructose>
+            <Vanillin>40</Vanillin>
+        </Ingredients>
+        <Value>
+            <Proteins>2.7</Proteins>
+            <Fats>4.4</Fats>
+            <Carbohydrates>82.4</Carbohydrates>
+        </Value>
+        <Production>Roshen</Production>
+    </Candies>
+
+    <Candies id = "c4">
+        <Name>Raffaello</Name>
+        <Energy>623</Energy>
+        <Type>coconut with filling</Type>
+        <Ingredients>
+            <Water>130</Water>
+            <Sugar>1570</Sugar>
+            <Fructose>490</Fructose>
+            <Vanillin>160</Vanillin>
+        </Ingredients>
+        <Value>
+            <Proteins>9.3</Proteins>
+            <Fats>47.8</Fats>
+            <Carbohydrates>38.8</Carbohydrates>
+        </Value>
+        <Production>Ferrero</Production>
+    </Candies>
+
+    <Candies id = "c5">
+        <Name>Royal charm</Name>
+        <Energy>556</Energy>
+        <Type>chocolate with filling</Type>
+        <Ingredients>
+            <Water>240</Water>
+            <Sugar>2060</Sugar>
+            <Fructose>150</Fructose>
+            <Vanillin>270</Vanillin>
+        </Ingredients>
+        <Value>
+            <Proteins>7.9</Proteins>
+            <Fats>38</Fats>
+            <Carbohydrates>47</Carbohydrates>
+        </Value>
+        <Production>AVK</Production>
+    </Candies>
+</Candy>
